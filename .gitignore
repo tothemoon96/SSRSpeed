@@ -110,3 +110,10 @@ venv.bak/
 /logs
 
 /results
+
+# 本机上忽略的文件
+.DS_Store
+._*
+/ssrspeed_config.json
+/config.json
+.smb*
